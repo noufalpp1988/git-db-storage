@@ -1,0 +1,7 @@
+{
+  "profiles":[
+    {"id":1,"name":"noufal","age":29},
+    {"id":2,"name":"sani","age":25},
+    {"id":3,"mom":"suhra","age":45}
+  ]
+}
